@@ -2,8 +2,13 @@
 
 Adam Piasecki, MD, PhD
 
+consultant in anesthesiology, intensive care, pain medicine
+
 post-doc in clinical machine learning
 
-@ GOCARES
+affiliations: [GOCARES](https://gocares.se), [Gothenburg Pain Lab](https://gothenburgpainlab.com)
 
-Skills: Python, R, tidymodels
+Skills: applied predictive modeling, Python, R, tidymodels
+
+
+
