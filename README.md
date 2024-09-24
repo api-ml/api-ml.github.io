@@ -1,8 +1,6 @@
 
 ### about me
 
-Adam Piasecki, MD, PhD
-
 
 consultant in anesthesiology, intensive care and pain medicine
 
