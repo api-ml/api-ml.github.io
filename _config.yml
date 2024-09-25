@@ -2,7 +2,13 @@ title: Portfolio
 #logo: assets/img/xgblogo.jpeg
 #description: machine learning
 #show_downloads: true
+
+author:
+  linkedin: adam-piasecki-59a76648
+
 theme: jekyll-theme-minimal
 # pages.github.com/themes
 
+markdown: kramdown
+highlighter: rouge
 
