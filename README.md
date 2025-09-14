@@ -14,7 +14,7 @@ post-doc in clinical machine learning
 affiliations: [GOCARES](https://gocares.se), [Gothenburg Pain Lab](https://gothenburgpainlab.com)
 
 
-skills: machine learning, Python, R  (tidymodels)
+skills: machine learning, Python, R 
 
 
 
