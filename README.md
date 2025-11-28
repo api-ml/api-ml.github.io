@@ -16,5 +16,8 @@ affiliations: [GOCARES](https://gocares.se), [Gothenburg Pain Lab](https://gothe
 
 skills: machine learning, Python, R 
 
+### contact
+https://www.linkedin.com/in/api-ml  
+
 
 
