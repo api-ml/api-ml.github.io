@@ -1,14 +1,12 @@
-title: Portfolio
-#logo: assets/img/xgblogo.jpeg
-#description: machine learning
-#show_downloads: true
-
+title: ""
 author:
   linkedin: api-ml
 
 theme: jekyll-theme-minimal
-# pages.github.com/themes
+
+# Disable GitHub profile button
+github:
+  is_project_page: false
 
 markdown: kramdown
 highlighter: rouge
-
